@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://zyan40.github.io/news/sitemap.xml
